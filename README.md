@@ -39,11 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-file:///C:/Users/ConroyRicketts/Downloads/demo1.gif
-file:///C:/Users/ConroyRicketts/Downloads/demo2.gif
-file:///C:/Users/ConroyRicketts/Downloads/demo3.gif
-file:///C:/Users/ConroyRicketts/Downloads/demo4.gif
-
+<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo1.gif" width = 250><br>
+<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo2.gif" width = 250><br>
+<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo3.gif" width = 250><br>
+<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo4.gif" width = 250><br>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
