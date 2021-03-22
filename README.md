@@ -39,10 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo1.gif" width = 250><br>
-<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo2.gif" width = 250><br>
-<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo3.gif" width = 250><br>
-<img src = "file:///C:/Users/ConroyRicketts/Downloads/demo4.gif" width = 250><br>
+
+![demo-1](https://github.com/conroyr41/CodePath-Light-and-Sound-Memory-Game/blob/main/demo1.gif)
+
+![demo-2](https://github.com/conroyr41/CodePath-Light-and-Sound-Memory-Game/blob/main/demo2.gif)
+
+![demo-3](https://github.com/conroyr41/CodePath-Light-and-Sound-Memory-Game/blob/main/demo3.gif)
+
+![demo-4](https://github.com/conroyr41/CodePath-Light-and-Sound-Memory-Game/blob/main/demo4.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -59,7 +63,7 @@ I have none at the moment.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had more time to work on this project, I would do a couple things. For one, I would try to recreate this app using Flask and Python because those are the tools that I've been using to write the back-end code for a the KnightHacks club website (at UCF). Another thing that I would do is research and implement multiplayer functionality across different devices. It would be awesome if another person (from a different computer) could determine a pattern him or herself and act as the "bot" in the game. 
+If I had more time to work on this project, I would do a couple things. For one, I would try to recreate this app using Flask and Python because those are the tools that I've been using to write the back-end code for the KnightHacks club website (at UCF). Another thing that I would do is research and implement multiplayer functionality across different devices. It would be awesome if another person (from a different computer) could determine a pattern him or herself and act as the "bot" in the game. 
 
 
 
